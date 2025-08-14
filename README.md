@@ -18,6 +18,8 @@ Seaborn
 
 Scikit-learn
 
+# Implementation
+
 1. Data Preprocessing
 
 2. Train-Test Split
@@ -38,6 +40,7 @@ Linear and RBF SVM
 
 Before and after PCA transformation
 
+# Results
 
 Hyperparameter tuning improved RBF SVM performance.
 
